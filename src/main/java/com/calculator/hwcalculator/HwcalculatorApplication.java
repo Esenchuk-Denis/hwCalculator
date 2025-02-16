@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HwcalculatorApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(HwcalculatorApplication.class, args);
 	}
 
